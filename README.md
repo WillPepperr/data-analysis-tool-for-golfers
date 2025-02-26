@@ -14,7 +14,7 @@ An easy way to enter, store and and visualize your golf results!
 
 ### *Note: You must allow Excel macros for `.xlsm` files to execute properly.*
 
-1. **Download** the `Golf_Dashboard.xlsm` file.
+1. **Download** the `Golf_Dashboard.xlsm` file located in the `dashboards` folder.
 2. **Open** the file in Excel and enable macros.
 3. On the **Dashboard** sheet, locate the two buttons in the top left corner:
    - **"Add Round"** - Opens the user form interface.
