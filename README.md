@@ -1,4 +1,4 @@
-# ⛳ Excel Dashboard for Golfers ⛳
+# ⛳ Data Analysis for Golfers in Excel ⛳
 
 An easy way to enter, store and and visualize your golf results!
 
